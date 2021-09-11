@@ -164,6 +164,7 @@ h6 {
         background-size: contain;
         background-color: var(--violet);
         background-repeat: no-repeat;
+        overflow-y: hidden;
     }
 
     .container {
