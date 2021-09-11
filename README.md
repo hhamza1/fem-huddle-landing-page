@@ -26,14 +26,11 @@ Your users should be able to:
 #### Mobile View
 ![Mobile View](./screenshots/mobile-view.png)
 
-#### Mobile View - Active-state
-![Mobile View](./screenshots/mobile-view-active.png)
-
 #### Desktop View
 ![Desktop View](./screenshots/desktop-view.png)
 
-#### Desktop View
-![Desktop View](./screenshots/desktop-view-active.png)
+#### Desktop View - Hover State
+![Desktop View](./screenshots/desktop-active.gif)
 
 ### Links
 
@@ -48,6 +45,7 @@ Your users should be able to:
 - CSS
 - Mobile-first workflow
 - Flexbox
+- Grid
 
 ## Author
 
